@@ -1,0 +1,5 @@
+C:\Users\kazuo\OneDrive\Documents\C#\obj\Debug\net5.0\C#.csproj.AssemblyReference.cache
+C:\Users\kazuo\OneDrive\Documents\C#\obj\Debug\net5.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazuo\OneDrive\Documents\C#\obj\Debug\net5.0\C#.AssemblyInfoInputs.cache
+C:\Users\kazuo\OneDrive\Documents\C#\obj\Debug\net5.0\C#.AssemblyInfo.cs
+C:\Users\kazuo\OneDrive\Documents\C#\obj\Debug\net5.0\C#.csproj.CoreCompileInputs.cache
